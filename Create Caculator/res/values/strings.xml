@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learn1</string>
+    <string name="so_dumb">So dumb</string>
+    <string name="hello">Hello world</string>
+    <string name="height_btn">95dp</string>
+    <string name="width_btn">95dp</string>
+
+</resources>
